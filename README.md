@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **MrLedz/MrLedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![giphy](https://github.com/MrLedz/MrLedz/assets/65257149/c027c3bf-5f8b-490f-b5ee-1a3feee640d4)
